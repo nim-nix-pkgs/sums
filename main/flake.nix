@@ -9,7 +9,7 @@
   
   inputs.src-sums-main.flake = false;
   inputs.src-sums-main.owner = "planetis-m";
-  inputs.src-sums-main.ref   = "refs/heads/main";
+  inputs.src-sums-main.ref   = "main";
   inputs.src-sums-main.repo  = "sums";
   inputs.src-sums-main.type  = "github";
   
